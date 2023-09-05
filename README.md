@@ -4,7 +4,8 @@
 ## Description
 1960 Russian native speakers participated in the recording with authentic accent. The recorded script is designed by linguists and cover a wide range of topics including generic, interactive, in-vehicle and home. The text is manually proofread with high accuracy. It matches with mainstream Android and Apple system phones.
 
-For more details, please refer to the link: https://bit.ly/3xRQ9TC
+For more details, please refer to the link: https://www.nexdata.ai/datasets/976?source=Github
+
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
